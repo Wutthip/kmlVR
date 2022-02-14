@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>แผนที่ที่ไม่มีชื่อ</name>
+    <name>AmphurPattani</name>
     <description/>
     <NetworkLink>
-      <name>แผนที่ที่ไม่มีชื่อ</name>
+      <name>AmphurPattani</name>
       <Link>
         <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=13TXXE3CSMTpecOGQ0ZkvBVUnUKD7deoN]]></href>
       </Link>
