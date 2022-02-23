@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Tourpoint</name>
+    <Style id="icon-1039-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1039-biz-internet.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1083-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1083-biz-restaurant-fish.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1259-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1259-poi-grain-mill.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1542-FF5252-labelson">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1789-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1789-F9A825-labelson">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>จุดพักลานไม้ไผ่ 2/จุดตรวจการณ์</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUGPthnZsoBgze8Z50OsCJlQacVPWWeRJ1MlycgVv_eigDJ4R_e_A2MpIysXUpetiTnoPciCJWdnpMFxlvQ0Fs4HIbQcI6qt3E4anRXgr4y5KGfY_jCAUcEaZs1r-DALDOsGfdbJIHh1Sx0GujqUdWBOTbhAQLSQgCVLJXh1mfm8Nbs_Ohy11-z5iuQeHoO-IJDuewVhONBP4kEff4RALekynSYMhMkgD0Jcog" height="200" width="auto" /><br><br>จุดพักลานไม้ไผ่ 2/จุดตรวจการณ์    <br>       <br>   FID   0    <br>   Id   0    <br>   TypeSurvey   จุดพักลานไม้ไผ่ 2/จุดตรวจการณ์    <br>   image]]></description>
+      <styleUrl>#icon-1039-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AFiHsUGPthnZsoBgze8Z50OsCJlQacVPWWeRJ1MlycgVv_eigDJ4R_e_A2MpIysXUpetiTnoPciCJWdnpMFxlvQ0Fs4HIbQcI6qt3E4anRXgr4y5KGfY_jCAUcEaZs1r-DALDOsGfdbJIHh1Sx0GujqUdWBOTbhAQLSQgCVLJXh1mfm8Nbs_Ohy11-z5iuQeHoO-IJDuewVhONBP4kEff4RALekynSYMhMkgD0Jcog</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.336724,6.879931,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>จุดชมต้นโกงกาง 80 ปี</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUF4VRtjWUCOpc2bBhY0gMxMcanDv8l44ghRoOdwUEv3Enn8_UxtUqnRtnRIdWcrqO092VPzhn3pLympbvx1aEFikusW9lyZ3COvo4UQiANslZj1LnEomy4bmkTK836p6VRX40TyFtK-WBwE7KIuCtZjMzJznfGIlReE4iyofN669Pjv6lF04HewETPvmR8enrJDhI2lx_1ZTl7t5spOVOEvK1jiFRPLY_3vjFk" height="200" width="auto" /><br><br>จุดชมต้นโกงกาง 80 ปี    <br>       <br>   FID   1    <br>   Id   0    <br>   TypeSurvey   จุดชมต้นโกงกาง 80 ปี    <br>   image]]></description>
+      <styleUrl>#icon-1259-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AFiHsUF4VRtjWUCOpc2bBhY0gMxMcanDv8l44ghRoOdwUEv3Enn8_UxtUqnRtnRIdWcrqO092VPzhn3pLympbvx1aEFikusW9lyZ3COvo4UQiANslZj1LnEomy4bmkTK836p6VRX40TyFtK-WBwE7KIuCtZjMzJznfGIlReE4iyofN669Pjv6lF04HewETPvmR8enrJDhI2lx_1ZTl7t5spOVOEvK1jiFRPLY_3vjFk</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.342487,6.881195,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>จุดเรือจม</name>
+      <description><![CDATA[จุดเรือจม    <br>       <br>   FID   2    <br>   Id   0    <br>   TypeSurvey   จุดเรือจม    <br>   image]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          101.333866,6.880201,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>เสาแนวยกพลขึ้นบกทหารญี่ปุ่น</name>
+      <description><![CDATA[เสาแนวยกพลขึ้นบกทหารญี่ปุ่น    <br>       <br>   FID   3    <br>   Id   0    <br>   TypeSurvey   เสาแนวยกพลขึ้นบกทหารญี่ปุ่น    <br>   image]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          101.33059,6.874245,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ป้าย Ilove bangpu</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUFDrPjMPM2yPlWan22QTWVix1kRJn--ZVoqzkp8ZbPc6NZI2jg2fZeDBdqt_zQfrAFoUh5FJ8lJff8ffnDaYcDtonXQE09JA7yTPTyn3tjsSQd8QPm4uN-KRZfi18lnFFoLD1DddyFB8ZegitBD5JugzACwdY3PZWoEe3MBRgCt3erixLtel2O8GDxIxrh20c5rzVUePGFSynBP9mxShthdqWta-TFmKS3tpsKzWCcHNkpM" height="200" width="auto" /><br><br>ป้าย Ilove bangpu    <br>       <br>   FID   4    <br>   Id   0    <br>   TypeSurvey   ป้าย Ilove bangpu    <br>   image]]></description>
+      <styleUrl>#icon-1789-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AFiHsUFDrPjMPM2yPlWan22QTWVix1kRJn--ZVoqzkp8ZbPc6NZI2jg2fZeDBdqt_zQfrAFoUh5FJ8lJff8ffnDaYcDtonXQE09JA7yTPTyn3tjsSQd8QPm4uN-KRZfi18lnFFoLD1DddyFB8ZegitBD5JugzACwdY3PZWoEe3MBRgCt3erixLtel2O8GDxIxrh20c5rzVUePGFSynBP9mxShthdqWta-TFmKS3tpsKzWCcHNkpM</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.337215,6.870797,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>จุดปลูกป่าโกงกางตะโละกาโปร์</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUHvfGjz-Df9jCPjZQ_UgBoB4d1dpeS-AyiLLA8R7NHoR6GrW8HuVBV0LmGQhbYdh9iJ_wjswtmSWWp4xnI-OKrGgWAuoz7yly9ESH4CTXCyUbj_6DJ4JrCerjtJYYLfUKqQ1h1HfcsrNRN1en72KbfnMYeTkTE9RT2j8WFXc0cp0i1X5LWxEygeEtq0BjrQxgM865ZNKDPy1ukJkggOmws8rJrutvSJPKIgJ7HLoM5B" height="200" width="auto" /><br><br>จุดปลูกป่าโกงกางตะโละกาโปร์    <br>       <br>   FID   5    <br>   Id   0    <br>   TypeSurvey   จุดปลูกป่าโกงกางตะโละกาโปร์    <br>   image]]></description>
+      <styleUrl>#icon-1039-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AFiHsUHvfGjz-Df9jCPjZQ_UgBoB4d1dpeS-AyiLLA8R7NHoR6GrW8HuVBV0LmGQhbYdh9iJ_wjswtmSWWp4xnI-OKrGgWAuoz7yly9ESH4CTXCyUbj_6DJ4JrCerjtJYYLfUKqQ1h1HfcsrNRN1en72KbfnMYeTkTE9RT2j8WFXc0cp0i1X5LWxEygeEtq0BjrQxgM865ZNKDPy1ukJkggOmws8rJrutvSJPKIgJ7HLoM5B</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.337417,6.912465,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ท่าเรือตะโละกาโปร์</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUEJifoeRCQ_fwQH-Z8v12_thV1szV96z9ynJ4lMRRJiWwFtK8ur50cQFegcFtZdal7X1V00TJ8jEn-_goi82fVCo1k8GOwo8atU5lDTSOaQ7AYQQUKpMf3xJ9T_eDn3YZNPQHEiCs8G1DH6xrLtkRP31CBtX5NnazdOk6yHqRLe9G8PYqJEoVxqFFCbnzFERhCs00qTBw5IEzf7IqZE8dnA--jq5iAEmVkjUHkKV5hS" height="200" width="auto" /><br><br>ท่าเรือตะโละกาโปร์    <br>       <br>   FID   6    <br>   Id   0    <br>   TypeSurvey   ท่าเรือตะโละกาโปร์    <br>   image]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AFiHsUEJifoeRCQ_fwQH-Z8v12_thV1szV96z9ynJ4lMRRJiWwFtK8ur50cQFegcFtZdal7X1V00TJ8jEn-_goi82fVCo1k8GOwo8atU5lDTSOaQ7AYQQUKpMf3xJ9T_eDn3YZNPQHEiCs8G1DH6xrLtkRP31CBtX5NnazdOk6yHqRLe9G8PYqJEoVxqFFCbnzFERhCs00qTBw5IEzf7IqZE8dnA--jq5iAEmVkjUHkKV5hS</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.370997,6.894361,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ป้ายสวัสดี</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUEHNuqKkK_5NkvNJrhGQLdmKzf9oCo4-lQwf6CcYd-yQx2IKoy2W2W2-kB2zszXLnwmIJfQ3IfLhFJiAsEFYAhFml-ddC_GTRVbgXOq6L_AvY2E1CGmFqFNPEpHV_LXXfib3ty2NMUjtv2TwCge-eF7wbkneJk-sCV47guKxGOux6CEDfsM1yotC7Z-zgZRwUs3KvTfH1W1O_BvEALD7ksaOVs5y5D-kNPjQIBo7OTT" height="200" width="auto" /><br><br>ป้ายสวัสดี    <br>       <br>   FID   7    <br>   Id   0    <br>   TypeSurvey   ป้ายสวัสดี    <br>   image]]></description>
+      <styleUrl>#icon-1039-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AFiHsUEHNuqKkK_5NkvNJrhGQLdmKzf9oCo4-lQwf6CcYd-yQx2IKoy2W2W2-kB2zszXLnwmIJfQ3IfLhFJiAsEFYAhFml-ddC_GTRVbgXOq6L_AvY2E1CGmFqFNPEpHV_LXXfib3ty2NMUjtv2TwCge-eF7wbkneJk-sCV47guKxGOux6CEDfsM1yotC7Z-zgZRwUs3KvTfH1W1O_BvEALD7ksaOVs5y5D-kNPjQIBo7OTT</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.369126,6.889895,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>จุดพักลานไม้ไผ่ 1/จุดตรวจการณ์</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUFr8aHTVCFitMdcTSPoVgfXOHGFoGzLHoiljb9PH2sQeKs5BPfR3UQFKabdaQii8TIuc_mkX8Zkd-xYW5_O0TunE4vh35mdgKsuZmjYsqIDnwrxBMGlGZWI-0D3mLssa_P_Qj2BCYT7gmNbufEEy_U9PFP6VZHbnnhlunsxCecN7qPKAnI4nxzHR0HyooRqi30DgIQbxGOfe0ee3i2RdRiINhqs5ClaCjjbXpw" height="200" width="auto" /><br><br>จุดพักลานไม้ไผ่ 1/จุดตรวจการณ์ <br> <br> FID 8 <br> Id 0 <br> TypeSurvey จุดพักลานไม้ไผ่ 1/จุดตรวจการณ์ <br> image]]></description>
+      <styleUrl>#icon-1542-FF5252-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AFiHsUFr8aHTVCFitMdcTSPoVgfXOHGFoGzLHoiljb9PH2sQeKs5BPfR3UQFKabdaQii8TIuc_mkX8Zkd-xYW5_O0TunE4vh35mdgKsuZmjYsqIDnwrxBMGlGZWI-0D3mLssa_P_Qj2BCYT7gmNbufEEy_U9PFP6VZHbnnhlunsxCecN7qPKAnI4nxzHR0HyooRqi30DgIQbxGOfe0ee3i2RdRiINhqs5ClaCjjbXpw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.346294,6.891184,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>จุดชมนก</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUFJlRalFUELlvMtaJsV5mQP_-JIckUn-w_YcB8ISF7OUzLaJToZdIKSLf0nSNwtLN39S-f2UaoFMv_M2biCfAczPxUGxJlE9ve9mJqECz2yl2Oew1uLcxIYBCKbTPL0f-ZvzUq0FROh-3fi9kiaQBnU_biBUxlCCPRjtaviHxtV_wo5OKdScqIjJmjodD7o3ZsyceBDFqy3M_R9I-ixmcW6yTz7ZPDv7g" height="200" width="auto" /><br><br>จุดชมนก    <br>       <br>   FID   9    <br>   Id   0    <br>   TypeSurvey   จุดชมนก    <br>   image]]></description>
+      <styleUrl>#icon-1789-F9A825-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AFiHsUFJlRalFUELlvMtaJsV5mQP_-JIckUn-w_YcB8ISF7OUzLaJToZdIKSLf0nSNwtLN39S-f2UaoFMv_M2biCfAczPxUGxJlE9ve9mJqECz2yl2Oew1uLcxIYBCKbTPL0f-ZvzUq0FROh-3fi9kiaQBnU_biBUxlCCPRjtaviHxtV_wo5OKdScqIjJmjodD7o3ZsyceBDFqy3M_R9I-ixmcW6yTz7ZPDv7g</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.336294,6.876155,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>จุดชมนก</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUEHOuCJvPPwqmiBUrjIbbNbLNBZpXsBjX7SQWEAE2DRmGJRvnyGA73Z5v3-u53bvuR98O6VXFWw3XNtcXLGkLd6w3KebUbDZFP7nw7OPJ0ft_y-gtQRmNXYzdywMylaIC8XfdpDy06sPe6oLod2f2jqOpx_CBqr8vBudL3z8E0lMqpLS8nbsni2qTsTV6P9y8VFwIxRHwSb2BfcpqEw4A" height="200" width="auto" /><br><br>จุดชมนก    <br>       <br>   FID   10    <br>   Id   0    <br>   TypeSurvey   จุดชมนก    <br>   image]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AFiHsUEHOuCJvPPwqmiBUrjIbbNbLNBZpXsBjX7SQWEAE2DRmGJRvnyGA73Z5v3-u53bvuR98O6VXFWw3XNtcXLGkLd6w3KebUbDZFP7nw7OPJ0ft_y-gtQRmNXYzdywMylaIC8XfdpDy06sPe6oLod2f2jqOpx_CBqr8vBudL3z8E0lMqpLS8nbsni2qTsTV6P9y8VFwIxRHwSb2BfcpqEw4A</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.341305,6.885397,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ปาแตเบ็น/จุดชมปลา</name>
+      <description><![CDATA[ปาแตเบ็น/จุดชมปลา    <br>       <br>   FID   11    <br>   Id   0    <br>   TypeSurvey   ปาแตเบ็น/จุดชมปลา    <br>   image]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          101.350201,6.904136,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>จุดงมหอย</name>
+      <description><![CDATA[จุดงมหอย    <br>       <br>   FID   12    <br>   Id   0    <br>   TypeSurvey   จุดงมหอย    <br>   image]]></description>
+      <styleUrl>#icon-1083-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          101.348913,6.90479,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>จุดงมหอย</name>
+      <description><![CDATA[จุดงมหอย    <br>       <br>   FID   13    <br>   Id   0    <br>   TypeSurvey   จุดงมหอย    <br>   image]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          101.348482,6.894039,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>จุดชมอุโมงค์โกงกาง ตะโละกาโปร์</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUFl1PdO3_L4iRj8suIuq3rOFhRHUtqhfTOlB90IdXZZKdTT1LlqRPTI-RcLmyKDv67GrQ6OGtAp10o8Yeqx1f1rZjypK-3JvLZQqM-vP38N0Y6g_5nylzfKo5dFfbHrCiTTP-gi0_qGLkK8YxY5qri7ObSCI-r9PlloY7EmVQOfwSJD-IVacp9qz8RWZJI6AKSfQvvvFVu_BAwvaLLLnr7P0z17sF-CfBiP4SOsFC0" height="200" width="auto" /><br><br>จุดชมอุโมงค์โกงกาง ตะโละกาโปร์    <br>       <br>   FID   14    <br>   Id   0    <br>   TypeSurvey   จุดชมอุโมงค์โกงกาง ตะโละกาโปร์    <br>   image]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AFiHsUFl1PdO3_L4iRj8suIuq3rOFhRHUtqhfTOlB90IdXZZKdTT1LlqRPTI-RcLmyKDv67GrQ6OGtAp10o8Yeqx1f1rZjypK-3JvLZQqM-vP38N0Y6g_5nylzfKo5dFfbHrCiTTP-gi0_qGLkK8YxY5qri7ObSCI-r9PlloY7EmVQOfwSJD-IVacp9qz8RWZJI6AKSfQvvvFVu_BAwvaLLLnr7P0z17sF-CfBiP4SOsFC0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.350189,6.892703,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>อุโมงค์โกงกาง ตะโละกาโปร์</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUHpx8K4OJujtZhK6a9PJ8jRICN8p6onEIuz-E6RVMCiIDvGzuHN6Bb8H5ICTlQ6lWdm7_fgwCVnH50qPVT6LCdHZ16MBhSoJgwc-xDsDVwhfFaTWTJUn3AO6fxYAF8ltvD8UDNeU5gd0J88e0VZNzyDHpXWE70DeVWWWPan8quqzstnBR4ao921Cty3edX2tcl2CQm3lx4vocl4QTSfU-Wge-0aqZph-BqmzMYptlMN" height="200" width="auto" /><br><br>อุโมงค์โกงกาง ตะโละกาโปร์    <br>       <br>   FID   15    <br>   Id   0    <br>   TypeSurvey   อุโมงค์โกงกาง ตะโละกาโปร์    <br>   image]]></description>
+      <styleUrl>#icon-1039-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AFiHsUHpx8K4OJujtZhK6a9PJ8jRICN8p6onEIuz-E6RVMCiIDvGzuHN6Bb8H5ICTlQ6lWdm7_fgwCVnH50qPVT6LCdHZ16MBhSoJgwc-xDsDVwhfFaTWTJUn3AO6fxYAF8ltvD8UDNeU5gd0J88e0VZNzyDHpXWE70DeVWWWPan8quqzstnBR4ao921Cty3edX2tcl2CQm3lx4vocl4QTSfU-Wge-0aqZph-BqmzMYptlMN</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.347426,6.905984,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>จุดชมนก</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUFJlRalFUELlvMtaJsV5mQP_-JIckUn-w_YcB8ISF7OUzLaJToZdIKSLf0nSNwtLN39S-f2UaoFMv_M2biCfAczPxUGxJlE9ve9mJqECz2yl2Oew1uLcxIYBCKbTPL0f-ZvzUq0FROh-3fi9kiaQBnU_biBUxlCCPRjtaviHxtV_wo5OKdScqIjJmjodD7o3ZsyceBDFqy3M_R9I-ixmcW6yTz7ZPDv7g" height="200" width="auto" /><br><br>จุดชมนก    <br>       <br>   FID   16    <br>   Id   0    <br>   TypeSurvey   จุดชมนก    <br>   image]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AFiHsUFJlRalFUELlvMtaJsV5mQP_-JIckUn-w_YcB8ISF7OUzLaJToZdIKSLf0nSNwtLN39S-f2UaoFMv_M2biCfAczPxUGxJlE9ve9mJqECz2yl2Oew1uLcxIYBCKbTPL0f-ZvzUq0FROh-3fi9kiaQBnU_biBUxlCCPRjtaviHxtV_wo5OKdScqIjJmjodD7o3ZsyceBDFqy3M_R9I-ixmcW6yTz7ZPDv7g</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.341822,6.900729,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>อุโมงค์โกงกาง บางปู</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUGUOuWI83vt168jLQmkMKiSoOVTLBXF8zVTzCmxpIVB60uS8hpp-zJK1lIxRZS7ccgluavQI2QmpejCvKOwz1ovrhbun8y_ifHZR-xGfBdFvZbs6bVUqALbY72JGXPnsKx10K25Bgsq7QJlzjVe-iathmM79v9_t6SHm7quTx3QwNGSThPlXYlaoSkLd6Rc5r_WQUss2st8ddERh70EBXsqWlzdlMKsoLvCrZcYO3vjkOX4bQ" height="200" width="auto" /><br><br>อุโมงค์โกงกาง บางปู    <br>       <br>   FID   17    <br>   Id   0    <br>   TypeSurvey   อุโมงค์โกงกาง บางปู    <br>   image]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AFiHsUGUOuWI83vt168jLQmkMKiSoOVTLBXF8zVTzCmxpIVB60uS8hpp-zJK1lIxRZS7ccgluavQI2QmpejCvKOwz1ovrhbun8y_ifHZR-xGfBdFvZbs6bVUqALbY72JGXPnsKx10K25Bgsq7QJlzjVe-iathmM79v9_t6SHm7quTx3QwNGSThPlXYlaoSkLd6Rc5r_WQUss2st8ddERh70EBXsqWlzdlMKsoLvCrZcYO3vjkOX4bQ</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.345616,6.876755,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>จุดชมอุโมงค์โกงกาง บางปู</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUHALOLmQ0_ojt2fG0uXvQj_3j4qLsHGa0wGp31HAXd6DtuQWMhtIo4hX3WeOImUz1MkXRCga9UiEVfV77FojQ3QbRrOdBP35ndBEHwZCTmTlgieGccZSRrSsl_UCwD635HYRypErZvG48kToIePiq0gq_PS5YI4NuPDvuQGajW7UEVEPAiovvtXocOySR1vuvpdrMePx22gr_z7WvrlwNSCZF2yTS7_U-bqLhGQUWn_PuI" height="200" width="auto" /><br><br>จุดชมอุโมงค์โกงกาง บางปู    <br>       <br>   FID   18    <br>   Id   0    <br>   TypeSurvey   จุดชมอุโมงค์โกงกาง บางปู    <br>   image]]></description>
+      <styleUrl>#icon-1039-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AFiHsUHALOLmQ0_ojt2fG0uXvQj_3j4qLsHGa0wGp31HAXd6DtuQWMhtIo4hX3WeOImUz1MkXRCga9UiEVfV77FojQ3QbRrOdBP35ndBEHwZCTmTlgieGccZSRrSsl_UCwD635HYRypErZvG48kToIePiq0gq_PS5YI4NuPDvuQGajW7UEVEPAiovvtXocOySR1vuvpdrMePx22gr_z7WvrlwNSCZF2yTS7_U-bqLhGQUWn_PuI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.346278,6.881402,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>สุสานเจ้าแม่ลิ้มกอเหนี่ยว</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUESifEFlQLkJ7yVSn_VqysWcveYgDT2h9VHIxNDwJdmS9Go0rPLGny7bwc568fCPFLuEZTm99uyApmRQ7xd74wuD0rr4EqvxogJGr-Lbb8JBA1T7jbxJIxhQ5mCGrOPP6dReUzouSU0oKTzTbblkW6lxj2Oz7lFrF8PjO9zLKjkmf9npnsIKu9xV3pmOY_OH0pqysxdDE438fky9847NKc1" height="200" width="auto" /><br><br>สุสานเจ้าแม่ลิ้มกอเหนี่ยว    <br>       <br>   FID   19    <br>   Id   0    <br>   TypeSurvey   สุสานเจ้าแม่ลิ้มกอเหนี่ยว    <br>   image]]></description>
+      <styleUrl>#icon-1039-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AFiHsUESifEFlQLkJ7yVSn_VqysWcveYgDT2h9VHIxNDwJdmS9Go0rPLGny7bwc568fCPFLuEZTm99uyApmRQ7xd74wuD0rr4EqvxogJGr-Lbb8JBA1T7jbxJIxhQ5mCGrOPP6dReUzouSU0oKTzTbblkW6lxj2Oz7lFrF8PjO9zLKjkmf9npnsIKu9xV3pmOY_OH0pqysxdDE438fky9847NKc1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.314331,6.883444,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ท่าเรือบ้านบานา</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUESifEFlQLkJ7yVSn_VqysWcveYgDT2h9VHIxNDwJdmS9Go0rPLGny7bwc568fCPFLuEZTm99uyApmRQ7xd74wuD0rr4EqvxogJGr-Lbb8JBA1T7jbxJIxhQ5mCGrOPP6dReUzouSU0oKTzTbblkW6lxj2Oz7lFrF8PjO9zLKjkmf9npnsIKu9xV3pmOY_OH0pqysxdDE438fky9847NKc1" height="200" width="auto" /><br><br>ท่าเรือบ้านบานา    <br>       <br>   FID   20    <br>   Id   0    <br>   TypeSurvey   ท่าเรือบ้านบานา    <br>   image]]></description>
+      <styleUrl>#icon-1039-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AFiHsUESifEFlQLkJ7yVSn_VqysWcveYgDT2h9VHIxNDwJdmS9Go0rPLGny7bwc568fCPFLuEZTm99uyApmRQ7xd74wuD0rr4EqvxogJGr-Lbb8JBA1T7jbxJIxhQ5mCGrOPP6dReUzouSU0oKTzTbblkW6lxj2Oz7lFrF8PjO9zLKjkmf9npnsIKu9xV3pmOY_OH0pqysxdDE438fky9847NKc1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.289912,6.878179,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>เรียนรู้ซั้งไม้ไผ่</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUFZumGY50f_pZMZNnbfxr1nGpymN4JrqNzMZEpeTQCpEMZwhrxRbnWXCBxtHppxHz8Ey1kldVndLP4uSMIkerG0dy1cp8w5pWMp4K7SBM1PgAVssonkPThrvKTImOA8RPK-wskNOWOavEEVLnOtbD6zPyU6q384vSvOMumyGyqPt9xKzniH2Q07M6TL6opIH2TluuHdH1YuEVt3vyCAkK4g_TsyeU9HxLNyU3EG9dA" height="200" width="auto" /><br><br>เรียนรู้ซั้งไม้ไผ่    <br>       <br>   FID   21    <br>   Id   0    <br>   TypeSurvey   เรียนรู้ซั้งไม้ไผ่    <br>   image]]></description>
+      <styleUrl>#icon-1083-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AFiHsUFZumGY50f_pZMZNnbfxr1nGpymN4JrqNzMZEpeTQCpEMZwhrxRbnWXCBxtHppxHz8Ey1kldVndLP4uSMIkerG0dy1cp8w5pWMp4K7SBM1PgAVssonkPThrvKTImOA8RPK-wskNOWOavEEVLnOtbD6zPyU6q384vSvOMumyGyqPt9xKzniH2Q07M6TL6opIH2TluuHdH1YuEVt3vyCAkK4g_TsyeU9HxLNyU3EG9dA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.339635,6.877667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>เรือบ้านบางปูหมู่2</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUHJygFn7ESsfNLFRNa5JMjosaKTT4zoRe6hugeXIJSIq57NHGPh81MrqNkPeuyq5NvMbaKn3YuLYiMp3P993T61cojZa_g5-mnow1ms7DknIEwP5-lFe8Uv8K_KCzFo_sh4zE4ke_JxJ6-byGrL2DmldVk1GciuYCvwjDxuvtF0-Hc4ITZrVQiqCi7uITf7fx6jKHt5eTMspw3Bw1jgYNdIOpNKFAszgFKDcWY" height="200" width="auto" /><br><br>เรือบ้านบางปูหมู่2    <br>       <br>   FID   22    <br>   Id   0    <br>   TypeSurvey   เรือบ้านบางปูหมู่2    <br>   image]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AFiHsUHJygFn7ESsfNLFRNa5JMjosaKTT4zoRe6hugeXIJSIq57NHGPh81MrqNkPeuyq5NvMbaKn3YuLYiMp3P993T61cojZa_g5-mnow1ms7DknIEwP5-lFe8Uv8K_KCzFo_sh4zE4ke_JxJ6-byGrL2DmldVk1GciuYCvwjDxuvtF0-Hc4ITZrVQiqCi7uITf7fx6jKHt5eTMspw3Bw1jgYNdIOpNKFAszgFKDcWY</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.349036,6.872087,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
