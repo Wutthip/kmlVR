@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="mangrovtour65_2" id="mangrovtour65_2">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="visibility" type="float"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Pictour" type="string"></SimpleField>
+	<SimpleField name="Pic1" type="string"></SimpleField>
+</Schema>
+<Folder><name>mangrovtour65_2</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">จุดพักลานไม้ไผ่ 2/จุดตรวจการณ์</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/bamtaloh1.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/bamtaloh1.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.336724271346,6.87993104732848,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">จุดชมต้นโกงกาง 80 ปี</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/mang60y.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/mang60y.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.342487373534,6.88119521032147,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">จุดเรือจม</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/boatb.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/boatb.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.333866352424,6.88020084961735,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">เสาแนวยกพลขึ้นบกทหารญี่ปุ่น</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/japan.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/japan.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.330590090647,6.8742452676547,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">ป้าย Ilove bangpu</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/bangpoo_label.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/bangpoo_label.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.337214515262,6.87079697837502,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">จุดปลูกป่าโกงกางตะโละกาโปร์</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/mang_datoh.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/mang_datoh.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.337417045589,6.91246482758017,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">ท่าเรือตะโละกาโปร์</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/porttaloh.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/porttaloh.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.370996764401,6.89436137921954,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">ป้ายสวัสดี</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/bung_label.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/bung_label.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.369125865233,6.88989470123419,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">จุดพักลานไม้ไผ่ 1/จุดตรวจการณ์</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/boom2.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/boom2.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.346293925888,6.89118400492124,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">จุดชมนก</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/bird.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/bird.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.336294304754,6.87615473193936,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">จุดชมนก</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.341304891476,6.88539720915102,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">ปาแตเบ็น/จุดชมปลา</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/manngtaloh4.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/manngtaloh4.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.350200915129,6.90413606272292,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">จุดงมหอย</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/shall.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/shall.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.348913358456,6.90479020926873,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">จุดชมอุโมงค์โกงกาง ตะโละกาโปร์</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/mangtaloh1.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/mangtaloh1.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.350189044466,6.89270275262306,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">อุโมงค์โกงกาง ตะโละกาโปร์</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/mangtaloh3.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/mangtaloh3.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.34742598927,6.90598370215658,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">จุดชมนก</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/bampoo.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/bampoo.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.341822487069,6.90072919419429,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">อุโมงค์โกงกาง บางปู</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/mang_bangpoo2.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/mang_bangpoo2.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.345615712219,6.87675523175802,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">จุดชมอุโมงค์โกงกาง บางปู</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/mang_bangpoo.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/mang_bangpoo.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.346278033838,6.88140219109087,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">สุสานเจ้าแม่ลิ้มกอเหนี่ยว</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/limkoh.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/limkoh.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.314330993933,6.88344357750053,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">ท่าเรือบ้านบานา</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/banaport.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/banaport.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.289911910191,6.87817872342096,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">เรียนรู้ซั้งไม้ไผ่</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/bamboo_g.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/bamboo_g.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.339635095974,6.87766732819212,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mangrovtour65_2">
+		<SimpleData name="Name">เรือบ้านบางปูหมู่2</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Pictour">&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/portpoo2.jpg&quot;&gt;</SimpleData>
+		<SimpleData name="Pic1">&lt;img src=&quot;file://&lt;img src=&quot; https://Wutthip.github.io/kmlVR/img/portpoo2.jpg&quot;&gt;&quot;&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>101.349035735388,6.87208742603648,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
